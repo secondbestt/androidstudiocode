@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652982144954",
+    "project_id": "sybbb-3befc",
+    "storage_bucket": "sybbb-3befc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652982144954:android:8e0cf510e16946543f9783",
+        "android_client_info": {
+          "package_name": "com.test.sybo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKiYCJL4lERWVl5cy9HlEnfkAFhHNgtWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
